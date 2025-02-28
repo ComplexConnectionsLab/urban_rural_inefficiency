@@ -14,8 +14,8 @@ Affiliations:<br>
 <sup>3</sup> ISI Foundation, Turin, Italy <br>
 
 ____
-Pre-print available [here](https://google.com).
-Explore our findings [here](https://www.riccardodiclemente.com/projects/rural_urban.html).
+Pre-print available [here](https://google.com). <br>
+Explore our findings with [this interactive visualisation](https://www.riccardodiclemente.com/projects/rural_urban.html). <br>
 ____
 
 This is a repository to accompany 'Understanding Urban-Rural Disparities in Mobility Inefficiency for Colombia, Mexico, and India'. This repository complements the results presented in the paper with code to reproduce the figures.
