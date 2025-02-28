@@ -15,6 +15,7 @@ Affiliations:<br>
 
 ____
 Pre-print available [here](https://google.com).
+Explore our findings [here](https://www.riccardodiclemente.com/projects/rural_urban.html).
 ____
 
 This is a repository to accompany 'Understanding Urban-Rural Disparities in Mobility Inefficiency for Colombia, Mexico, and India'. This repository complements the results presented in the paper with code to reproduce the figures.
