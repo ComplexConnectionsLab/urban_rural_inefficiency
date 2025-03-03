@@ -14,7 +14,6 @@ Affiliations:<br>
 <sup>3</sup> ISI Foundation, Turin, Italy <br>
 ____
 If you use the code in this repository, please cite our paper:
-____
 ```
 @misc{iyer2025understandingurbanrural,
       title={Understanding Urban-Rural Disparities in Mobility Inefficiency for Colombia, Mexico, and India}, 
