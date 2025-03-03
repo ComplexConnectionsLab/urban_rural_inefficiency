@@ -4,7 +4,7 @@
 
 * Nandini Iyer <sup>1</sup> [<img src="https://i.vimeocdn.com/portrait/4202369_60x60?sig=9bca2cf9bcca8e574a01728a2766c9402e9679900c285517717017ebcae9e227&v=1" alt="ORCID" height="16">](https://orcid.org/0000-0002-5683-3023)
 
-* Massimiliano Luca <sup>2</sup>
+* Massimiliano Luca <sup>2</sup> [<img src="https://i.vimeocdn.com/portrait/4202369_60x60?sig=9bca2cf9bcca8e574a01728a2766c9402e9679900c285517717017ebcae9e227&v=1" alt="ORCID" height="16">](https://orcid.org/0000-0001-6964-9877)
 
 * Riccardo Di Clemente <sup>1,3</sup> [<img src="https://i.vimeocdn.com/portrait/4202369_60x60?sig=9bca2cf9bcca8e574a01728a2766c9402e9679900c285517717017ebcae9e227&v=1" alt="ORCID" height="16">](https://orcid.org/0000-0001-8005-6351)
 
@@ -12,6 +12,20 @@ Affiliations:<br>
 <sup>1</sup> Complex Connections Lab, Network Science Institute, Northeastern University London, UK <br>
 <sup>2</sup> Bruno Kessler Foundation, Via Sommarive 18, 38123 Povo (TN), Italy <br>
 <sup>3</sup> ISI Foundation, Turin, Italy <br>
+____
+If you use the code in this repository, please cite our paper:
+____
+```
+@misc{iyer2025understandingurbanrural,
+      title={Understanding Urban-Rural Disparities in Mobility Inefficiency for Colombia, Mexico, and India}, 
+      author={Nandini Iyer, Massimiliano Luca and Riccardo Di Clemente},
+      year={2025},
+      eprint={TODO},
+      archivePrefix={arXiv},
+      primaryClass={physics.soc-ph},
+      url={TODO}, 
+}}
+```
 
 ____
 Pre-print available [here](https://google.com). <br>
