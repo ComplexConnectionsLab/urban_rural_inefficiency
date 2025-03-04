@@ -19,15 +19,15 @@ If you use the code in this repository, please cite our paper:
       title={Understanding Urban-Rural Disparities in Mobility Inefficiency for Colombia, Mexico, and India}, 
       author={Nandini Iyer, Massimiliano Luca and Riccardo Di Clemente},
       year={2025},
-      eprint={TODO},
+      doi={10.48550/arXiv.2503.01810},
       archivePrefix={arXiv},
       primaryClass={physics.soc-ph},
-      url={TODO}, 
+      url={https://arxiv.org/abs/2503.01810}, 
 }}
 ```
 
 ____
-Pre-print available [here](https://google.com). <br>
+Pre-print available [here](https://arxiv.org/abs/2503.01810). <br>
 Explore our findings with [this interactive visualisation](https://www.riccardodiclemente.com/projects/rural_urban.html). <br>
 ____
 
